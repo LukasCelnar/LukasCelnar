@@ -1,16 +1,17 @@
-### Hi there 👋
+### ![landing page picture](https://ctrlv.cz/shots/2020/08/03/WDcW.png)
 
-<!--
-**LukasCelnar/LukasCelnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im currently studying cybersecurity in highschool
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+  * Python - Mostly for datascience and backend (Flask) development
+  * JavaScript - Frontend (React) and Backed (Node, Express) development
+  
+**My Biggest Projects so far:**
+  * ApartmentPresentation (React) for Czech Republic company named ms-invest, currently this project is in private repository
+  * MalariaDetection (Deep learning): 
+    * Github: https://github.com/LukasCelnar/MalariaDetection
+  * TitanicPrediction (Machine learning): 
+    * Github: https://github.com/LukasCelnar/TitanicPrediction
+  * PortfolioTemplate (SASS)
+    * Github: https://github.com/LukasCelnar/PortfolioTemplate
+    * Demo: https://lukascelnar.github.io/PortfolioTemplate/
