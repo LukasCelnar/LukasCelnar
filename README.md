@@ -4,7 +4,7 @@ Im currently studying cybersecurity in highschool
 
 **Skills:**
   * Python - Mostly for datascience and backend (Flask) development
-  * JavaScript - Frontend (React) and Backed (Node, Express) development
+  * JavaScript - Frontend (React) and Backend (Node, Express) development
   
 **My Biggest Projects so far:**
   * ApartmentPresentation (React) for Czech Republic company named ms-invest, currently this project is in private repository
