@@ -1,4 +1,4 @@
-### ![landing page picture](https://ctrlv.cz/shots/2020/08/03/WDcW.png)
+### ![landing page picture](/landing-page.png)
 
 Im currently studying cybersecurity in highschool
 
