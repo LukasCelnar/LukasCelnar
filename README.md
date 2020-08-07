@@ -15,3 +15,5 @@ Im currently studying cybersecurity in highschool
   * PortfolioTemplate (SASS)
     * Github: https://github.com/LukasCelnar/PortfolioTemplate
     * Demo: https://lukascelnar.github.io/PortfolioTemplate/
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=LukasCelnar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
