@@ -1,4 +1,4 @@
-### ![landing page picture](/landing-page.png)
+### ![landing page picture](/https://imgur.com/jBuYQkk)
 
 Im currently studying cybersecurity in highschool
 
