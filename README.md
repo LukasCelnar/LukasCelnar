@@ -10,6 +10,9 @@ Im currently cybersecurity highschool student
   * ApartmentPresentation (React) for Czech Republic company named ms-invest, currently this project is in private repository
   * MalariaDetection (Deep learning): 
     * Github: https://github.com/LukasCelnar/MalariaDetection
+  * LinuxTerminal (React + Redux):
+    * Github: https://github.com/LukasCelnar/LinuxTerminal
+    * Demo: https://linux-terminal.netlify.app/
   * TitanicPrediction (Machine learning): 
     * Github: https://github.com/LukasCelnar/TitanicPrediction
   * PortfolioTemplate (SASS)
