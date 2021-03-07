@@ -8,6 +8,8 @@ Im currently cybersecurity highschool student
   
 **My Biggest Projects so far:**
   * ApartmentPresentation (React) for Czech Republic company named ms-invest, currently this project is in private repository
+    * Website 1 (Apartment 1): https://trnita-b60804.netlify.app/
+    * Website 2 (Apartment 2): https://trnita-b40205.netlify.app/
   * MalariaDetection (Deep learning): 
     * Github: https://github.com/LukasCelnar/MalariaDetection
   * LinuxTerminal (React + Redux):
