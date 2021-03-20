@@ -1,6 +1,6 @@
 ### ![landing page picture](https://i.imgur.com/jBuYQkk.png)
 
-Im currently cybersecurity highschool student
+Hi, Im 18yo cybersecurity highschool student
 
 **Skills:**
   * Python - Mostly for datascience and backend (Flask) development
