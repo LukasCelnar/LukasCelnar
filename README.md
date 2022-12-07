@@ -1,4 +1,4 @@
-### ![landing page picture](https://i.postimg.cc/QMRRBqrR/Group-1-2.png)
+### ![landing page picture](https://i.postimg.cc/8CLXXJ3v/Group-1-3.png)
 
 Im 19yo SW engineer from Czechia.
 
@@ -18,7 +18,7 @@ Im 19yo SW engineer from Czechia.
   
 **Projects:**
   * Drevokocur (2022) React Native, React
-   * Mobile application with the purpose of tracking location and creating artificial data + Web application for visualizing artificial data. The goal of the application was to help Bratislava with the optimization of city transport.
+    * Mobile application with the purpose of tracking location and creating artificial data + Web application for visualizing artificial data. The goal of the application was to help Bratislava with the optimization of city transport.
     * [Presentation](https://youtu.be/wV13S7IJMXQ?list=LL&t=1930)
     * Code: Private
   * Greenify (2022) Javascript
