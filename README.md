@@ -1,4 +1,4 @@
-### ![landing page picture](https://i.postimg.cc/8CLXXJ3v/Group-1-3.png)
+### ![landing page picture](https://i.postimg.cc/v821f2zP/Group-1.png)
 
 Im 19yo SW engineer from Czechia.
 
